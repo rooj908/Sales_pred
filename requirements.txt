@@ -1,9 +1,9 @@
-streamlit==1.35.0
-fastapi==0.111.0
-uvicorn==0.30.1
+streamlit
+fastapi
+uvicorn
 pandas
-numpy==1.26.4
-scikit-learn==1.5.0
-plotly==5.22.0
-pydantic==2.7.3
-python-multipart==0.0.9
+numpy
+scikit-learn
+plotly
+pydantic
+python-multipart
